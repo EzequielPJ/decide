@@ -17,4 +17,4 @@ python:
 install:
   - pip install -r requirements.txt
 script:
-  - python3 ./mange.py test
+  - python3 ./manage.py test
